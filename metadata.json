@@ -1,0 +1,17 @@
+{
+  "name": "lazyfrosch-apache",
+  "version": "0.0.1",
+  "author": "lazyfrosch",
+  "summary": "Replacement for Puppetlabs-apache (still work in progress!)",
+  "license": "GPL-3+",
+  "source": "https://github.com/lazyfrosch/puppet-apache",
+  "project_page": null,
+  "issues_url": null,
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_range": ">= 1.0.0"
+    }
+  ]
+}
+
